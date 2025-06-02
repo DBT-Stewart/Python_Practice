@@ -67,4 +67,3 @@ print("Right Shift:", a >> 1)
 age = 18
 status = "Adult" if age >= 18 else "Minor"
 print(status)
-

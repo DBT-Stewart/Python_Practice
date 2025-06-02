@@ -74,4 +74,3 @@ for coordinate in coordinates:
 # 12. Tuple Length
 # The length of a tuple can be determined using the `len()` function.
 print("Length of coordinates tuple:", len(coordinates))  # Output: 2
-
